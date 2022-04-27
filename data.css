@@ -6,7 +6,7 @@
 }
 
 
-#okta-sign-in.auth-container.main-container {
+body #okta-sign-in.auth-container.main-container {
 	background-color: #fff0;
 }
 
