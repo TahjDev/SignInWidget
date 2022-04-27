@@ -11,6 +11,6 @@ body #okta-sign-in.auth-container.main-container {
 }
 
 
-#okta-sign-in {
+body #okta-sign-in {
 	border-style: none;
 }
