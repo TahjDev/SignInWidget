@@ -30,6 +30,9 @@ body #okta-sign-in {
 	background: #eee9e2;
 	border: none;
 }
+body #okta-sign-in.auth-container.main-container .bg-helper {
+	color: #f6f4f0;
+}
 
 body #okta-sign-in.auth-container .button-primary {
 	background: #fff0;
