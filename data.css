@@ -1,10 +1,9 @@
 #okta-sign-in .auth-header {
-	 background-color: #eee9e2;
+	background-color: #eee9e2;
 }
- div login-bg-image {
-	 background-image: url(https://trt-seeds.s3.amazonaws.com/vault.gif);
+div, .login-bg-image {
+	background-image: url(https://trt-seeds.s3.amazonaws.com/vault.gif);
 }
- #okta-sign-in {
-	 background-color: #f6f4f1 0;
+#okta-sign-in {
+	background-color: #f6f4f1 0;
 }
- 
