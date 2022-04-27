@@ -10,7 +10,33 @@ body #okta-sign-in.auth-container.main-container {
 	background-color: #fff0;
 }
 
+body #okta-sign-in.auth-container .okta-sign-in-header {
+	background-color: #fff0;
+
+}
+#okta-sign-in.auth-container .okta-form-input-field {
+	background-color: #fff0;
+}
 
 body #okta-sign-in {
 	border-style: none;
+	border-bottom-color: #fff0;
+}
+
+body #okta-sign-in.auth-container .button-primary {
+	background: #fff0;
+}
+
+#okta-sign-in .o-form .input-fix input:-webkit-autofill, #okta-sign-in .o-form .textarea-fix input:-webkit-autofill {
+	-webkit-box-shadow: 0 0 0 1000px #eee9e2 inset;
+	border-radius: 3px ;
+}
+
+body #okta-sign-in.auth-container .button-primary {
+	background: #eee9e2;
+}
+
+#okta-sign-in .auth-header {
+	border-bottom: none ;
+	background: #fff0;
 }
