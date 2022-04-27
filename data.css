@@ -8,10 +8,13 @@
 
 body #okta-sign-in.auth-container.main-container {
 	background-color: #fff0;
+	box-shadow: 0 1px 0 rgb(0 0 0 / 15%), inset 0 1px 0 0 hsl(0deg 0% 100% / 10%);
+
 }
 
 body #okta-sign-in.auth-container .okta-sign-in-header {
 	background-color: #fff0;
+	border-bottom: none;
 
 }
 #okta-sign-in.auth-container .okta-form-input-field {
