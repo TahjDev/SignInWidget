@@ -5,5 +5,14 @@
 	background-image: url(https://trt-seeds.s3.amazonaws.com/vault.gif);
 }
 #okta-sign-in {
-	background-color: #f6f4f1 0;
+	background-color: #f6f4f1;
+}
+
+#okta-sign-in.auth-container.main-container {
+	background-color: rgba(255, 255, 255, 0);
+}
+
+
+#okta-signin {
+	border-style: none;
 }
